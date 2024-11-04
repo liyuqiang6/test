@@ -1,0 +1,1 @@
+{"doc":" Nacos starter.\n <p>\n Use @SpringBootApplication and @ComponentScan at the same time, using CUSTOM type filter to control module enabled.\n </p>\n\n @author nacos\n","fields":[],"enumConstants":[],"methods":[],"constructors":[]}

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for RuoYi-Cloud-Plus" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/com/github/therapi/therapi-runtime-javadoc-scribe/0.15.0/therapi-runtime-javadoc-scribe-0.15.0.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/com/github/therapi/therapi-runtime-javadoc/0.15.0/therapi-runtime-javadoc-0.15.0.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/projectlombok/lombok/1.18.34/lombok-1.18.34.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/springframework/boot/spring-boot-configuration-processor/3.2.11/spring-boot-configuration-processor-3.2.11.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/io/github/linpeilie/mapstruct-plus-processor/1.4.5/mapstruct-plus-processor-1.4.5.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/io/github/linpeilie/mapstruct-plus/1.4.5/mapstruct-plus-1.4.5.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/mapstruct/mapstruct/1.5.5.Final/mapstruct-1.5.5.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/io/github/linpeilie/mapstruct-plus-object-convert/1.4.5/mapstruct-plus-object-convert-1.4.5.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/com/baidu/lbsyun/javapoet/1.9.0/javapoet-1.9.0.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/mapstruct/mapstruct-processor/1.5.5.Final/mapstruct-processor-1.5.5.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/mapstruct/tools/gem/gem-api/1.0.0.Alpha3/gem-api-1.0.0.Alpha3.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/projectlombok/lombok-mapstruct-binding/0.2.0/lombok-mapstruct-binding-0.2.0.jar" />
+        </processorPath>
+        <module name="ruoyi-common-job" />
+        <module name="ruoyi-common-bus" />
+        <module name="ruoyi-job" />
+        <module name="ruoyi-system" />
+        <module name="ruoyi-common-skylog" />
+        <module name="ruoyi-common-redis" />
+        <module name="ruoyi-test-mq" />
+        <module name="ruoyi-resource" />
+        <module name="ruoyi-common-dubbo" />
+        <module name="ruoyi-common-tenant" />
+        <module name="ruoyi-api-system" />
+        <module name="ruoyi-common-doc" />
+        <module name="ruoyi-common-nacos" />
+        <module name="ruoyi-api-workflow" />
+        <module name="ruoyi-common-satoken" />
+        <module name="ruoyi-common-security" />
+        <module name="ruoyi-api-resource" />
+        <module name="ruoyi-gen" />
+        <module name="ruoyi-common-oss" />
+        <module name="ruoyi-common-websocket" />
+        <module name="ruoyi-common-encrypt" />
+        <module name="ruoyi-common-sensitive" />
+        <module name="ruoyi-common-excel" />
+        <module name="ruoyi-workflow" />
+        <module name="ruoyi-common-sse" />
+        <module name="ruoyi-gateway" />
+        <module name="ruoyi-common-dict" />
+        <module name="ruoyi-common-seata" />
+        <module name="ruoyi-common-log" />
+        <module name="ruoyi-common-mybatis" />
+        <module name="ruoyi-common-elasticsearch" />
+        <module name="ruoyi-common-sms" />
+        <module name="ruoyi-common-json" />
+        <module name="ruoyi-common-logstash" />
+        <module name="ruoyi-common-mail" />
+        <module name="ruoyi-monitor" />
+        <module name="ruoyi-common-core" />
+        <module name="ruoyi-common-translation" />
+        <module name="ruoyi-common-web" />
+        <module name="ruoyi-common-ratelimiter" />
+        <module name="ruoyi-demo" />
+        <module name="ruoyi-common-idempotent" />
+        <module name="ruoyi-common-loadbalancer" />
+        <module name="ruoyi-common-prometheus" />
+        <module name="ruoyi-common-sentinel" />
+        <module name="ruoyi-common-social" />
+        <module name="ruoyi-auth" />
+        <module name="ruoyi-snailjob-server" />
+      </profile>
+      <profile name="Annotation profile for ruoyi-nacos" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/com/github/therapi/therapi-runtime-javadoc-scribe/0.15.0/therapi-runtime-javadoc-scribe-0.15.0.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/com/github/therapi/therapi-runtime-javadoc/0.15.0/therapi-runtime-javadoc-0.15.0.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/projectlombok/lombok/1.18.34/lombok-1.18.34.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/springframework/boot/spring-boot-configuration-processor/2.7.18/spring-boot-configuration-processor-2.7.18.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/io/github/linpeilie/mapstruct-plus-processor/1.4.5/mapstruct-plus-processor-1.4.5.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/io/github/linpeilie/mapstruct-plus/1.4.5/mapstruct-plus-1.4.5.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/mapstruct/mapstruct/1.5.5.Final/mapstruct-1.5.5.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/io/github/linpeilie/mapstruct-plus-object-convert/1.4.5/mapstruct-plus-object-convert-1.4.5.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/com/baidu/lbsyun/javapoet/1.9.0/javapoet-1.9.0.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/mapstruct/mapstruct-processor/1.5.5.Final/mapstruct-processor-1.5.5.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/mapstruct/tools/gem/gem-api/1.0.0.Alpha3/gem-api-1.0.0.Alpha3.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/projectlombok/lombok-mapstruct-binding/0.2.0/lombok-mapstruct-binding-0.2.0.jar" />
+        </processorPath>
+        <module name="ruoyi-nacos" />
+      </profile>
+      <profile name="Annotation profile for ruoyi-seata-server" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/com/github/therapi/therapi-runtime-javadoc-scribe/0.15.0/therapi-runtime-javadoc-scribe-0.15.0.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/com/github/therapi/therapi-runtime-javadoc/0.15.0/therapi-runtime-javadoc-0.15.0.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/projectlombok/lombok/1.18.34/lombok-1.18.34.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/springframework/boot/spring-boot-configuration-processor/2.7.18/spring-boot-configuration-processor-2.7.18.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/io/github/linpeilie/mapstruct-plus-processor/1.4.5/mapstruct-plus-processor-1.4.5.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/io/github/linpeilie/mapstruct-plus/1.4.5/mapstruct-plus-1.4.5.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/mapstruct/mapstruct/1.5.5.Final/mapstruct-1.5.5.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/io/github/linpeilie/mapstruct-plus-object-convert/1.4.5/mapstruct-plus-object-convert-1.4.5.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/com/baidu/lbsyun/javapoet/1.9.0/javapoet-1.9.0.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/mapstruct/mapstruct-processor/1.5.5.Final/mapstruct-processor-1.5.5.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/mapstruct/tools/gem/gem-api/1.0.0.Alpha3/gem-api-1.0.0.Alpha3.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/projectlombok/lombok-mapstruct-binding/0.2.0/lombok-mapstruct-binding-0.2.0.jar" />
+        </processorPath>
+        <module name="ruoyi-seata-server" />
+      </profile>
+      <profile name="Annotation profile for ruoyi-sentinel-dashboard" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/com/github/therapi/therapi-runtime-javadoc-scribe/0.15.0/therapi-runtime-javadoc-scribe-0.15.0.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/com/github/therapi/therapi-runtime-javadoc/0.15.0/therapi-runtime-javadoc-0.15.0.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/projectlombok/lombok/1.18.34/lombok-1.18.34.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/springframework/boot/spring-boot-configuration-processor/2.7.18/spring-boot-configuration-processor-2.7.18.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/io/github/linpeilie/mapstruct-plus-processor/1.4.5/mapstruct-plus-processor-1.4.5.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/io/github/linpeilie/mapstruct-plus/1.4.5/mapstruct-plus-1.4.5.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/mapstruct/mapstruct/1.5.5.Final/mapstruct-1.5.5.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/io/github/linpeilie/mapstruct-plus-object-convert/1.4.5/mapstruct-plus-object-convert-1.4.5.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/com/baidu/lbsyun/javapoet/1.9.0/javapoet-1.9.0.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/mapstruct/mapstruct-processor/1.5.5.Final/mapstruct-processor-1.5.5.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/mapstruct/tools/gem/gem-api/1.0.0.Alpha3/gem-api-1.0.0.Alpha3.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repertory/org/projectlombok/lombok-mapstruct-binding/0.2.0/lombok-mapstruct-binding-0.2.0.jar" />
+        </processorPath>
+        <module name="ruoyi-sentinel-dashboard" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ruoyi-api" options="-parameters" />
+      <module name="ruoyi-api-resource" options="-parameters" />
+      <module name="ruoyi-api-system" options="-parameters" />
+      <module name="ruoyi-api-workflow" options="-parameters" />
+      <module name="ruoyi-auth" options="-parameters" />
+      <module name="ruoyi-cloud-plus" options="-parameters" />
+      <module name="ruoyi-common" options="-parameters" />
+      <module name="ruoyi-common-bus" options="-parameters" />
+      <module name="ruoyi-common-core" options="-parameters" />
+      <module name="ruoyi-common-dict" options="-parameters" />
+      <module name="ruoyi-common-doc" options="-parameters" />
+      <module name="ruoyi-common-dubbo" options="-parameters" />
+      <module name="ruoyi-common-elasticsearch" options="-parameters" />
+      <module name="ruoyi-common-encrypt" options="-parameters" />
+      <module name="ruoyi-common-excel" options="-parameters" />
+      <module name="ruoyi-common-idempotent" options="-parameters" />
+      <module name="ruoyi-common-job" options="-parameters" />
+      <module name="ruoyi-common-json" options="-parameters" />
+      <module name="ruoyi-common-loadbalancer" options="-parameters" />
+      <module name="ruoyi-common-log" options="-parameters" />
+      <module name="ruoyi-common-logstash" options="-parameters" />
+      <module name="ruoyi-common-mail" options="-parameters" />
+      <module name="ruoyi-common-mybatis" options="-parameters" />
+      <module name="ruoyi-common-nacos" options="-parameters" />
+      <module name="ruoyi-common-oss" options="-parameters" />
+      <module name="ruoyi-common-prometheus" options="-parameters" />
+      <module name="ruoyi-common-ratelimiter" options="-parameters" />
+      <module name="ruoyi-common-redis" options="-parameters" />
+      <module name="ruoyi-common-satoken" options="-parameters" />
+      <module name="ruoyi-common-seata" options="-parameters" />
+      <module name="ruoyi-common-security" options="-parameters" />
+      <module name="ruoyi-common-sensitive" options="-parameters" />
+      <module name="ruoyi-common-sentinel" options="-parameters" />
+      <module name="ruoyi-common-skylog" options="-parameters" />
+      <module name="ruoyi-common-sms" options="-parameters" />
+      <module name="ruoyi-common-social" options="-parameters" />
+      <module name="ruoyi-common-sse" options="-parameters" />
+      <module name="ruoyi-common-tenant" options="-parameters" />
+      <module name="ruoyi-common-translation" options="-parameters" />
+      <module name="ruoyi-common-web" options="-parameters" />
+      <module name="ruoyi-common-websocket" options="-parameters" />
+      <module name="ruoyi-demo" options="-parameters" />
+      <module name="ruoyi-example" options="-parameters" />
+      <module name="ruoyi-gateway" options="-parameters" />
+      <module name="ruoyi-gen" options="-parameters" />
+      <module name="ruoyi-job" options="-parameters" />
+      <module name="ruoyi-modules" options="-parameters" />
+      <module name="ruoyi-monitor" options="-parameters" />
+      <module name="ruoyi-nacos" options="-parameters" />
+      <module name="ruoyi-resource" options="-parameters" />
+      <module name="ruoyi-seata-server" options="-parameters" />
+      <module name="ruoyi-sentinel-dashboard" options="-parameters" />
+      <module name="ruoyi-snailjob-server" options="-parameters" />
+      <module name="ruoyi-system" options="-parameters" />
+      <module name="ruoyi-test-mq" options="-parameters" />
+      <module name="ruoyi-visual" options="-parameters" />
+      <module name="ruoyi-workflow" options="-parameters" />
+    </option>
+  </component>
+</project>
